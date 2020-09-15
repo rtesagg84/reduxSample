@@ -10,7 +10,7 @@ export default function () {
             id: 1,
             first: "Sami",
             last: "John",
-            age: 71,
+            age: 21,
             description: "Sami is a React developer and YouTuber",
             thumbnail: "http://i.imgur.com/7yUvePI.jpg"
         },
@@ -18,7 +18,7 @@ export default function () {
             id: 2,
             first: "Adonay",
             last: "Markos",
-            age: 27,
+            age: 30,
             description: "Adonay loves the Packers, cheese, and turtles.",
             thumbnail: "http://i.imgur.com/52xRlm8.png"
         },
@@ -26,7 +26,7 @@ export default function () {
             id: 3,
             first: "Sandra",
             last: "Aman",
-            age: 24,
+            age: 40,
             description: "Sandra likes her dog but it is really annoying.",
             thumbnail: "http://i.imgur.com/4EMtxHB.png"
         }
